@@ -6,6 +6,7 @@ import java.util.List;
 
 public class Test {
 
+
 	public static void main(String arg[]) {
 		int a1=10;
 		int b=20;
